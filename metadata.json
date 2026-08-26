@@ -1,0 +1,6 @@
+{
+  "name": "TechStore - Menaxhimi i Dyqanit Elektronik",
+  "description": "Sistem modern për menaxhimin e dyqanit elektronik me rolet Menaxher dhe Punëtor, stokut dhe shitjeve.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
